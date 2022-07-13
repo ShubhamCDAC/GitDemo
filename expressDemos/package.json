@@ -1,0 +1,20 @@
+{
+  "name": "expressdemos",
+  "version": "1.0.0",
+  "description": "Demos on express in CDAC-Hyd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cdac",
+    "web training"
+  ],
+  "author": "phaniraj",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  }
+}
